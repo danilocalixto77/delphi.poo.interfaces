@@ -1,0 +1,38 @@
+unit eInterface.Model.Pessoa.Factory;
+
+interface
+
+uses
+  eInterface.Model.Interfaces;
+
+Type 
+  TModelPessoaFactory = class(TInterfacedObject, iPessoaFactory)
+  private
+
+  public
+    constructor Create; 
+    destructor Destroy; override;
+    class function New : iPessoaFactory;
+  end;
+
+  implementation
+  
+  { TModelPessoaFactory }
+
+constructor TModelPessoaFactory.Create;
+begin
+
+end;
+
+destructor TModelPessoaFactory.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModelPessoaFactory.New: iPessoaFactory;
+begin
+  Result := Self.Create;
+end;
+
+end.

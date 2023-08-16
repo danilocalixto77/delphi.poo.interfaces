@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/11 20:02:48.000.335,=C:\Users\Danilo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 14:30:59.000.273,=C:\Users\Danilo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 15:25:55.000.286,=C:\Users\Danilo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 16:11:15.000.780,C:\Users\Danilo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 16:11:15.000.780,C:\Users\Danilo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos\Delphi11\Interfaces\Unit1.dfm</Transaction>
+    <Transaction>2023/08/15 16:11:29.000.778,C:\Users\Danilo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Delphi11\Interfaces\POOInterfaces.dproj</Transaction>
+    <Transaction>2023/08/15 16:11:35.000.890,=C:\Projetos\Delphi11\Interfaces\Unit2.pas</Transaction>
+    <Transaction>2023/08/15 16:17:27.000.479,=C:\Projetos\Delphi11\Interfaces\Unit3.pas</Transaction>
+    <Transaction>2023/08/15 16:18:00.000.843,C:\Projetos\Delphi11\Interfaces\Unit3.pas=C:\Projetos\Delphi11\Interfaces\eInterface.Model.Pessoa.pas</Transaction>
+    <Transaction>2023/08/15 16:21:10.000.375,C:\Projetos\Delphi11\Interfaces\Unit1.pas=C:\Projetos\Delphi11\Interfaces\eInterface.View.Principal.pas</Transaction>
+    <Transaction>2023/08/15 16:21:10.000.375,C:\Projetos\Delphi11\Interfaces\Unit1.dfm=C:\Projetos\Delphi11\Interfaces\eInterface.View.Principal.dfm</Transaction>
+    <Transaction>2023/08/15 16:22:13.000.168,C:\Projetos\Delphi11\Interfaces\Unit2.pas=C:\Projetos\Delphi11\Interfaces\eInterface.Model.Interfaces.pas</Transaction>
+    <Transaction>2023/08/15 20:57:37.041,C:\Projetos\Delphi11\Interfaces\eInterface.Model.PessoaFisica.pas=C:\Projetos\Delphi11\Interfaces\eInterface.Model.Pessoa.pas</Transaction>
+    <Transaction>2023/08/15 20:58:41.770,=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 20:58:59.185,C:\Projetos\Delphi11\Interfaces\eInterface.Model.PessoaJuridica.pas=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 21:18:35.608,=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 21:19:01.732,C:\Projetos\Delphi11\Interfaces\eInterface.Model.Pessoa.Factory.pas=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 21:57:03.060,=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 21:58:39.362,C:\Projetos\Delphi11\Interfaces\eInterface.Controller.Pessoa.pas=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 21:58:56.108,=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 21:59:17.477,C:\Projetos\Delphi11\Interfaces\eInterface.Controller.Interfaces.pas=C:\Projetos\Delphi11\Interfaces\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,18 @@
+unit eInterface.Controller.Interfaces;
+
+interface
+
+uses
+  eInterface.Model.Interfaces;
+
+type
+  TTypePessoa = (tpFisica, tpJuridica);
+
+  iControllerPessoa = interface
+    ['{A7C33D8E-F3AD-46B3-98AF-606116A785ED}']
+    function Pessoa(Value : TTypePessoa) : iPessoa;
+  end;
+
+implementation
+
+end.

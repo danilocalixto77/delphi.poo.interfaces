@@ -1,0 +1,27 @@
+unit eInterface.Model.Pessoa;
+
+interface
+
+type
+  TModelPessoa = Class(TInterfacedObject, iPessoa)
+  public
+    constructor Create;
+    destructor Destroy; override;
+  End;
+
+implementation
+
+{ TModelPessoa }
+
+constructor TModelPessoa.Create;
+begin
+
+end;
+
+destructor TModelPessoa.Destroy;
+begin
+
+  inherited;
+end;
+
+end.
